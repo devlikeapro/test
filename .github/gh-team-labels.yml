@@ -1,4 +1,6 @@
 teamLabels:
+  - team: waha-patrons-not-existed
+    label: patron:NOT-EXISTED
   - team: waha-patrons-pro
     label: patron:PRO
   - team: waha-patrons-advanced
