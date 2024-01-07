@@ -1,3 +1,6 @@
+ignore:
+  teams:
+    - no-labels
 teamLabels:
   - team: waha-patrons-not-existed
     label: patron:NOT-EXISTED
