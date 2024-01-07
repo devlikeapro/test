@@ -1,0 +1,5 @@
+teamLabels:
+  - team: waha-patrons-plus
+    label: patron:PLUS
+  - team: waha-patrons-advanced
+    label: patron:ADVANCED
